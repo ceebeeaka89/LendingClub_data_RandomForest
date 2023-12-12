@@ -45,3 +45,6 @@ Countplots
 Jointplots
 
 Implots
+
+# Full Report
+Please request via email if you wish to read the full report. Only the code has been uploaded.
